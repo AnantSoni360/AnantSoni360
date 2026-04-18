@@ -85,6 +85,12 @@ Power BI | Matplotlib | Seaborn | Excel
 
 ---
 
+## 🐍 Contribution Graph
+
+![Snake animation dark](https://raw.githubusercontent.com/AnantSoni360/AnantSoni360/output/github-snake-dark.svg)
+
+---
+
 ## 🎮 When I'm not coding...
 
 I'm either:
