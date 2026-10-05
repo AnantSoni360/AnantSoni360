@@ -40,7 +40,7 @@ Apache Spark | Hadoop | Pandas | EDA | Power BI | SQL | MySQL Workbench
 
 ### 🧙‍♂️ Dev Tools
 ```
-FastAPI | Python | Java | Git | GitHub | REST APIs | Arduino
+FastAPI | Python | Java | TypeScript | Git | GitHub | REST APIs | Arduino
 ```
 
 ### 📊 Data Visualization
@@ -66,9 +66,11 @@ Power BI | Matplotlib | Seaborn | Excel
 
 | Project | What I Built | Tech Stack |
 |---------|--------------|------------|
-| 🗣️ **Text, Speech & Sign Language Translator** | Multimodal accessible communication system enabling text, voice, and gesture-based interaction | NLP, CNN, Speech Recognition, Gesture Detection |
-| 🎭 **AI Powered Deepfake Detection Website** | CNN-based web app that detects manipulated images and videos with probability scoring | Python, TensorFlow, CNN, Flask/FastAPI |
-| 🧠 **LLM Inference Gateway & Prompt Router** | Intelligent multi-model LLM gateway with prompt routing, caching, and fault-tolerant inference | FastAPI, vLLM, Hugging Face Transformers |
+| 🗣️ [**Text, Speech & Sign Language Translator**](https://github.com/AnantSoni360/Language-Translator) | Multimodal accessible communication system enabling text, voice, and gesture-based interaction | NLP, CNN, Speech Recognition, Gesture Detection |
+| 🎭 [**AI Powered Deepfake Detection Website**](https://github.com/AnantSoni360/Deepfake-detection-website) | CNN-based web app that detects manipulated images and videos with probability scoring | Python, TensorFlow, CNN, Flask/FastAPI |
+| 🧠 [**LLM Inference Gateway & Prompt Router**](https://github.com/AnantSoni360/llM-ROUTER) | Intelligent multi-model LLM gateway with prompt routing, caching, and fault-tolerant inference | FastAPI, vLLM, Hugging Face Transformers |
+| 📊 [**Financial Report GenAI**](https://github.com/AnantSoni360/financial-report-GenAI) | Generative AI-powered tool for analyzing and generating financial reports | Python, GenAI, LLMs |
+| 🤖 [**Aionos Agentic Factory**](https://github.com/AnantSoni360/aionos-agentic-factory) | Multi-agent AI framework for automated task processing and control | Python, Agentic AI |
 
 ---
 
